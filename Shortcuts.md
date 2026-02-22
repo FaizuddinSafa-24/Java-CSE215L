@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <body>
-    <p> type "class + Tab" == "public class fileName"</p>
+    <h3>List of Shortcuts</h3>
+    <p>1. type "class + Tab" == "public class fileName"</p>
     </body>
 </html>
